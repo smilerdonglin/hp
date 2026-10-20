@@ -1,0 +1,9 @@
+Raster scan thermal simulation assumptions
+Power: 300.0 W
+Speed: 400 mm/s
+Overlap: 25%
+Beam radius: 60 micrometers, 1/e^2
+Hatch spacing: 90.0 micrometers
+Region: 0.900 mm x 0.450 mm
+Material: 316L-like constants, rho=7900 kg/m3, cp=500 J/kg-K, k=16 W/m-K
+Model: simplified 2D conduction with effective 200 micrometer layer thickness.

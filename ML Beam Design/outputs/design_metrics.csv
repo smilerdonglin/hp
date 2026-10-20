@@ -1,0 +1,6 @@
+shape,peak_T_C,melt_width_um,melt_length_um,melt_area_um2,G_rear_K_per_mm,cool_rate_K_per_ms,phi_peak_to_mean,Hmax_hs
+gaussian60 (ref),2880.286,115.000,445.000,41175.000,8526.584,538.228,2.000,8.495
+ring preset,1148.966,0.000,0.000,0.000,0.000,0.000,2.661,2.366
+line preset,1147.331,0.000,0.000,0.000,0.000,0.000,5.533,5.781
+ML-designed (fast fwd),1798.568,115.000,235.000,17750.000,4869.564,512.837,7.031,8.935
+ML-designed (FD verify),1797.153,110.000,230.000,17300.000,4832.879,511.167,7.031,8.935

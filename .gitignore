@@ -1,0 +1,23 @@
+# Large binaries stay in Google Drive, not in git
+*.pptx
+*.pdf
+*.docx
+*.xlsx
+*.xlsm
+*.npz
+*.zip
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Machine-local Claude Code state
+.claude/settings.local.json
+.claude/worktrees/
+
+# OS
+Thumbs.db
+.DS_Store
